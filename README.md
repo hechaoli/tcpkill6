@@ -1,6 +1,10 @@
 # tcpkill6
 [tcpkill](https://linux.die.net/man/8/tcpkill) with IPv6 support.
 
+## Requirements
+* libpcap
+* libnet
+
 ## Build
 ```
 $ make tcpkill6
